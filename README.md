@@ -1,6 +1,6 @@
-# hamiltonapp
+# Hamilton App
 
-A new Flutter application.
+This repo contains an application that displays Hamilton's playlist information.
 
 ## Getting Started
 
